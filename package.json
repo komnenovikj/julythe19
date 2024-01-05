@@ -1,0 +1,11 @@
+{
+  "name": "atm-api",
+  "version": "1.0.0",
+  "description": "ATM API for managing TDL dollars",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
